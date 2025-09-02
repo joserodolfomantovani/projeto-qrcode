@@ -1,3 +1,4 @@
+
 const mainPrompt =[
     {
         name:"select",
@@ -7,3 +8,6 @@ const mainPrompt =[
         require:true,
     }
 ]
+
+
+export default mainPrompt
